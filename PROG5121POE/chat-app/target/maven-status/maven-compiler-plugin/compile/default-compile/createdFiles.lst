@@ -1,0 +1,3 @@
+com\mycompany\chat\app\model\User.class
+com\mycompany\chat\app\Service\Login.class
+com\mycompany\chat\app\ChatApp.class
